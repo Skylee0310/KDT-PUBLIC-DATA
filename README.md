@@ -4,12 +4,32 @@
 | --- | --- |
 | 🙍🏻‍♂️ 팀원 :  | 김규량, 변주영, 이윤서, 이화은 |
 
-<두근두근 취뽀 팀 주제 및 발표 순서>
+<details>
+<summary> 김규량
+</summary>
+<div markdown="1">
 
-1. 김규량 : intro + 국내 업종별 성장 추이 연금 비교
-2. 이윤서 : 지역별 소프트웨어 업종의 규모
-3. 변주영 : 미국 산업별 연봉의 추이
-4. 이화은 : 기업에서 필요로 하는 데이터 분석가 직무 지원자 분석. + outro
+</div>
+</details>
+
+<details>
+<summary> 변주영
+</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
+<details>
+<summary> 이윤서
+</summary>
+<div markdown="1">
+
+</div>
+</details>
+
+
 
 <details>
 <summary>  이화은 - 기업에서 필요로 하는 데이터 분석가 직무 지원자 분석
